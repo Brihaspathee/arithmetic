@@ -4,7 +4,7 @@
 
     <groupId>com.brihaspathee.operation</groupId>
     <artifactId>operation</artifactId>
-    <version>1.0.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Simple-Arithmetic</name>
     <description>Simple Arithmetic Operation</description>
@@ -23,9 +23,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git://github.com/brihaspathee/operation.git</connection>
-        <developerConnection>scm:git:ssh://github.com:brihaspathee/operation.git</developerConnection>
-        <url>http://github.com/brihaspathee/operation</url>
+        <connection>scm:git:git://github.com/brihaspathee/arithmetic.git</connection>
+        <developerConnection>scm:git:ssh://github.com:brihaspathee/arithmetic.git</developerConnection>
+        <url>http://github.com/brihaspathee/arithmetic</url>
       <tag>1.0.0</tag>
   </scm>
 
